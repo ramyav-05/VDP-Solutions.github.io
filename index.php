@@ -94,7 +94,7 @@
                       <script src="index.js"></script>
                     </div>  
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 010-020-0340</a>
+                      <a href="tel:010-020-0340"><i class="fa fa-phone"></i> 010-020-0340</a>
                     </div>
                   </div>
                 </div>
@@ -107,7 +107,7 @@
                       <a href="mailto:vdpsolns@company.com">Mail Us Now</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 090-080-0760</a>
+                      <a href="tel:090-080-0760"><i class="fa fa-phone"></i> 090-080-0760</a>
                     </div>
                   </div>
                 </div>
@@ -120,7 +120,7 @@
                       <a href="#services">Our Services</a>
                     </div>
                     <div class="call-button">
-                      <a href="#"><i class="fa fa-phone"></i> 050-040-0320</a>
+                      <a href="tel:050-040-0320"><i class="fa fa-phone"></i> 050-040-0320</a>
                     </div>
                   </div>
                 </div>
@@ -270,7 +270,7 @@
                 <img src="assets/images/s-1.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a rel="sponsored" href="https://templatemo.com/tm-564-plot-listing" target="_parent"><h4>First Project</h4></a>
+                    <a href="#"><h4>First Project</h4></a>
                     <span>Description</span>
                   </div>
                 </div>
@@ -281,7 +281,7 @@
                 <img src="assets/images/s-2.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Project Two</h4></a>
+                    <a href="#"><h4>Second Project</h4></a>
                     <span>Description</span>
                   </div>
                 </div>
@@ -292,7 +292,7 @@
                 <img src="assets/images/s-3.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a rel="sponsored" href="https://templatemo.com/tm-562-space-dynamic" target="_parent"><h4>Third Project</h4></a>
+                    <a href="#"><h4>Third Project</h4></a>
                     <span>Description</span>
                   </div>
                 </div>
@@ -303,7 +303,7 @@
                 <img src="assets/images/s-4.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Project Four</h4></a>
+                    <a href="#"><h4>Fourth Project</h4></a>
                     <span>Description</span>
                   </div>
                 </div>
